@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import RoboCard from './RoboCard';
 import reportWebVitals from './reportWebVitals';
+import CardList from './CardList';
+// import RCard from './cardstest'
 
 ReactDOM.render(
   <React.StrictMode>
-    <RoboCard />
+    <CardList />
   </React.StrictMode>,
   document.getElementById('root')
 );
