@@ -1,5 +1,17 @@
 export const robots = [
     {
+        id:10,
+        name:'Chandima Dilshsn',
+        username:'pokk',
+        email:'Dilshan12@gmail.com'
+    },
+    {
+        id:9,
+        name:'Manodya Induwari',
+        username:'crush',
+        email:'Manodyainduwari@gmail.com'
+    },    
+    {
         id:1,
         name:'Lasith Malinga',
         username:'bert',
@@ -41,4 +53,5 @@ export const robots = [
         username:'cot',
         email:'lasithmalinga@gmail.com'
     },
+
 ]
