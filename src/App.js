@@ -26,10 +26,10 @@ class App extends Component{
         })
         return (
             <div>
-                <div className="NavBar">
-                   <h1>Robo Friends</h1>
+                <nav className="NavBar">
+                   <div className="logo">Robo Friends</div>
                     <SearchBox SearchChange={this.OnSearchChange}/>
-                </div>
+                </nav>
                 <div className="CardBackground">
                   <CardList robots={FilteredRobots}/>
                 </div>

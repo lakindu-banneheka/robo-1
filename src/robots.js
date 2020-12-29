@@ -1,5 +1,25 @@
 export const robots = [
     {
+        id:14,
+        name:'Pema lelarathna',
+        email:'pemalila@gmail.com',
+    },
+    {
+        id:13,
+        name:'Praveeni Hansana',
+        email:'praveenihansana@gmail.com'
+    },
+    {
+        id:12,
+        name:'kapila Bandara',
+        email:'kapilabandara@gmail.com'
+    },
+    {
+        id:11,
+        name:'Medini Prasangika',
+        email:'medinidiss@gmail.com'
+    },
+    {
         id:10,
         name:'Chandima Dilshsn',
         email:'Dilshan12@gmail.com'

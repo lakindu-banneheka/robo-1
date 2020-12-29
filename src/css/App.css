@@ -12,12 +12,16 @@
     top: 0;
     background-color: lightgreen;
 }
-.NavBar h1{
+/* .searchbox{
+      width: 20%;
+} */
+.logo{
     float: left;
     display: block;
     padding-top: 0px;
-    margin: 10px;
-}
-.searchbox{
-    float: right;
+    margin: 5px 5% 5px 2%;
+    text-align:initial;
+    font-size:  30px ;
+    font-weight: 900;
+    color:  #1649EA;
 }
