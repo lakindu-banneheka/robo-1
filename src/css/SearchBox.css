@@ -1,0 +1,16 @@
+.SearchBox{
+    padding:10px 15px;
+    margin: 5px;
+    border: 3px groove  rgb(64, 211, 64);
+    background-color: rgb(122 235 178);
+    border-radius: 7px;
+    font-size: 20px;
+
+}
+.SearchBoxBackground{
+    padding: 2px;
+    
+}
+.SearchBox:active{
+    border-color: rgb(16, 176, 230);
+}
